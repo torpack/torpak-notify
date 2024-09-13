@@ -36,7 +36,7 @@ RegisterCommand('main', function()
 end) ]]
 
 RegisterCommand('main', function()
-exports['torpak-notify']:SendAlert('SETZ CREW', 'success')
+exports['torpak-notify']:SendAlert('Torpak', 'success')
 --[[ exports['torpak-notify']:SendAlert('ED:V Inspired', 'info') 
 exports['torpak-notify']:SendAlert('But Its Not Look Very Good :d', 'error') ]]
 exports['torpak-notify']:SendAlert('What Ever. Its My First CSS Adventure LMAO', 'success')
